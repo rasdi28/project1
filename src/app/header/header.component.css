@@ -1,0 +1,16 @@
+.navBardemoBasicUsage md-content .ext-content {
+    padding: 50px;
+    margin: 20px;
+    background-color: #FFF2E0; }
+
+.navbar {
+    padding-top: 40px;
+    text-align: center;
+}
+.mat-grid-tile {
+    background-color: lightblue;
+}
+
+table {
+    width: 100%;
+  }
